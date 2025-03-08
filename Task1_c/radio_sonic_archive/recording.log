@@ -1,0 +1,200 @@
+2025-03-08 21:38:17,051 - INFO - Stream test successful for SomaFM_Groove
+2025-03-08 21:38:19,066 - INFO - Stream test successful for SomaFM_Drone
+2025-03-08 21:38:21,130 - INFO - Stream test successful for SomaFM_Jazz
+2025-03-08 21:38:23,196 - INFO - Stream test successful for SomaFM_Indie
+2025-03-08 21:38:25,263 - INFO - Stream test successful for SomaFM_Folk
+2025-03-08 21:38:28,116 - INFO - Stream test successful for SomaFM_Ambient
+2025-03-08 21:38:30,180 - INFO - Stream test successful for SomaFM_Lounge
+2025-03-08 21:38:30,183 - INFO - Found 7 valid radio stations
+2025-03-08 21:38:30,205 - WARNING - ffmpeg not found or not working. Falling back to Python-based recording method.
+2025-03-08 21:38:30,206 - INFO - Starting Python-based recording: SomaFM_Drone for 84 seconds
+2025-03-08 21:39:57,133 - INFO - Python recording complete: radio_sonic_archive\001_SomaFM_Drone_20250308_213830.mp3 (1568.00 KB)
+2025-03-08 21:39:57,165 - ERROR - Error getting duration for radio_sonic_archive\001_SomaFM_Drone_20250308_213830.mp3: [WinError 2] The system cannot find the file specified
+2025-03-08 21:39:57,166 - INFO - Estimated duration for radio_sonic_archive\001_SomaFM_Drone_20250308_213830.mp3: 98.00 seconds
+2025-03-08 21:39:57,166 - INFO - Recorded file 1/10: 001_SomaFM_Drone_20250308_213830.mp3
+2025-03-08 21:39:57,196 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:39:59,206 - WARNING - ffmpeg not found or not working. Falling back to Python-based recording method.
+2025-03-08 21:39:59,207 - INFO - Starting Python-based recording: SomaFM_Ambient for 87 seconds
+2025-03-08 21:41:28,308 - INFO - Python recording complete: radio_sonic_archive\002_SomaFM_Ambient_20250308_213959.mp3 (1608.00 KB)
+2025-03-08 21:41:28,407 - ERROR - Error getting duration for radio_sonic_archive\002_SomaFM_Ambient_20250308_213959.mp3: [WinError 2] The system cannot find the file specified
+2025-03-08 21:41:28,408 - INFO - Estimated duration for radio_sonic_archive\002_SomaFM_Ambient_20250308_213959.mp3: 100.50 seconds
+2025-03-08 21:41:28,411 - INFO - Recorded file 2/10: 002_SomaFM_Ambient_20250308_213959.mp3
+2025-03-08 21:41:28,420 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:41:30,443 - WARNING - ffmpeg not found or not working. Falling back to Python-based recording method.
+2025-03-08 21:41:30,445 - INFO - Starting Python-based recording: SomaFM_Folk for 38 seconds
+2025-03-08 21:42:10,671 - INFO - Python recording complete: radio_sonic_archive\003_SomaFM_Folk_20250308_214130.mp3 (840.00 KB)
+2025-03-08 21:42:10,725 - ERROR - Error getting duration for radio_sonic_archive\003_SomaFM_Folk_20250308_214130.mp3: [WinError 2] The system cannot find the file specified
+2025-03-08 21:42:10,726 - INFO - Estimated duration for radio_sonic_archive\003_SomaFM_Folk_20250308_214130.mp3: 52.50 seconds
+2025-03-08 21:42:10,726 - INFO - Recorded file 3/10: 003_SomaFM_Folk_20250308_214130.mp3
+2025-03-08 21:42:10,730 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:42:12,740 - WARNING - ffmpeg not found or not working. Falling back to Python-based recording method.
+2025-03-08 21:42:12,741 - INFO - Starting Python-based recording: SomaFM_Drone for 45 seconds
+2025-03-08 21:43:00,956 - INFO - Python recording complete: radio_sonic_archive\004_SomaFM_Drone_20250308_214212.mp3 (960.00 KB)
+2025-03-08 21:43:00,986 - ERROR - Error getting duration for radio_sonic_archive\004_SomaFM_Drone_20250308_214212.mp3: [WinError 2] The system cannot find the file specified
+2025-03-08 21:43:00,987 - INFO - Estimated duration for radio_sonic_archive\004_SomaFM_Drone_20250308_214212.mp3: 60.00 seconds
+2025-03-08 21:43:00,988 - INFO - Recorded file 4/10: 004_SomaFM_Drone_20250308_214212.mp3
+2025-03-08 21:43:00,991 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:43:03,000 - WARNING - ffmpeg not found or not working. Falling back to Python-based recording method.
+2025-03-08 21:43:03,000 - INFO - Starting Python-based recording: SomaFM_Folk for 51 seconds
+2025-03-08 21:43:56,705 - INFO - Python recording complete: radio_sonic_archive\005_SomaFM_Folk_20250308_214302.mp3 (1048.00 KB)
+2025-03-08 21:43:57,212 - INFO - Recorded file 5/10: 005_SomaFM_Folk_20250308_214302.mp3
+2025-03-08 21:43:57,218 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:43:59,276 - INFO - Starting recording: SomaFM_Indie for 75 seconds
+2025-03-08 21:46:30,547 - INFO - Stream test successful for SomaFM_Groove
+2025-03-08 21:46:32,564 - INFO - Stream test successful for SomaFM_Drone
+2025-03-08 21:46:34,590 - INFO - Stream test successful for SomaFM_Jazz
+2025-03-08 21:46:36,826 - INFO - Stream test successful for SomaFM_Indie
+2025-03-08 21:46:38,855 - INFO - Stream test successful for SomaFM_Folk
+2025-03-08 21:46:41,030 - INFO - Stream test successful for SomaFM_Ambient
+2025-03-08 21:46:43,288 - INFO - Stream test successful for SomaFM_Lounge
+2025-03-08 21:46:44,571 - WARNING - Stream test failed for National Public Radio: HTTP 404
+2025-03-08 21:46:44,572 - INFO - Found 7 valid radio stations
+2025-03-08 21:46:44,640 - INFO - Starting recording: SomaFM_Folk for 72 seconds
+2025-03-08 21:47:41,126 - INFO - Stream test successful for SomaFM_Groove
+2025-03-08 21:47:43,206 - INFO - Stream test successful for SomaFM_Drone
+2025-03-08 21:47:45,242 - INFO - Stream test successful for SomaFM_Jazz
+2025-03-08 21:47:47,274 - INFO - Stream test successful for SomaFM_Indie
+2025-03-08 21:47:49,304 - INFO - Stream test successful for SomaFM_Folk
+2025-03-08 21:47:51,318 - INFO - Stream test successful for SomaFM_Ambient
+2025-03-08 21:47:53,405 - INFO - Stream test successful for SomaFM_Lounge
+2025-03-08 21:47:54,397 - WARNING - Stream test failed for Classical music: HTTP 403
+2025-03-08 21:47:54,399 - INFO - Found 7 valid radio stations
+2025-03-08 21:47:54,451 - INFO - Starting recording: SomaFM_Ambient for 61 seconds
+2025-03-08 21:48:47,052 - INFO - Stream test successful for SomaFM_Groove
+2025-03-08 21:48:49,311 - INFO - Stream test successful for SomaFM_Drone
+2025-03-08 21:48:51,315 - INFO - Stream test successful for SomaFM_Jazz
+2025-03-08 21:48:53,314 - INFO - Stream test successful for SomaFM_Indie
+2025-03-08 21:48:55,364 - INFO - Stream test successful for SomaFM_Folk
+2025-03-08 21:48:57,677 - INFO - Stream test successful for SomaFM_Ambient
+2025-03-08 21:48:59,917 - INFO - Stream test successful for SomaFM_Lounge
+2025-03-08 21:49:00,739 - WARNING - Stream test failed for Radio net: HTTP 403
+2025-03-08 21:49:00,741 - INFO - Found 7 valid radio stations
+2025-03-08 21:49:00,793 - INFO - Starting recording: SomaFM_Indie for 31 seconds
+2025-03-08 21:50:47,069 - INFO - Stream test successful for SomaFM_Groove
+2025-03-08 21:50:49,208 - INFO - Stream test successful for SomaFM_Drone
+2025-03-08 21:50:51,438 - INFO - Stream test successful for SomaFM_Jazz
+2025-03-08 21:50:53,601 - INFO - Stream test successful for SomaFM_Indie
+2025-03-08 21:50:55,842 - INFO - Stream test successful for SomaFM_Folk
+2025-03-08 21:50:58,006 - INFO - Stream test successful for SomaFM_Ambient
+2025-03-08 21:51:00,258 - INFO - Stream test successful for SomaFM_Lounge
+2025-03-08 21:51:00,260 - INFO - Found 7 valid radio stations
+2025-03-08 21:51:00,314 - INFO - Starting recording: SomaFM_Folk for 59 seconds
+2025-03-08 21:51:45,459 - INFO - Recording complete: radio_sonic_archive\001_SomaFM_Folk_20250308_215100.mp3
+2025-03-08 21:51:45,819 - INFO - Recorded file 1/30: 001_SomaFM_Folk_20250308_215100.mp3
+2025-03-08 21:51:45,825 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:51:47,883 - INFO - Starting recording: SomaFM_Lounge for 59 seconds
+2025-03-08 21:52:32,932 - INFO - Recording complete: radio_sonic_archive\002_SomaFM_Lounge_20250308_215147.mp3
+2025-03-08 21:52:33,181 - INFO - Recorded file 2/30: 002_SomaFM_Lounge_20250308_215147.mp3
+2025-03-08 21:52:33,185 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:52:35,240 - INFO - Starting recording: SomaFM_Drone for 60 seconds
+2025-03-08 21:53:21,183 - INFO - Recording complete: radio_sonic_archive\003_SomaFM_Drone_20250308_215235.mp3
+2025-03-08 21:53:21,547 - INFO - Recorded file 3/30: 003_SomaFM_Drone_20250308_215235.mp3
+2025-03-08 21:53:21,554 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:53:23,619 - INFO - Starting recording: SomaFM_Jazz for 44 seconds
+2025-03-08 21:53:54,050 - INFO - Recording complete: radio_sonic_archive\004_SomaFM_Jazz_20250308_215323.mp3
+2025-03-08 21:53:54,295 - INFO - Recorded file 4/30: 004_SomaFM_Jazz_20250308_215323.mp3
+2025-03-08 21:53:54,298 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:53:56,362 - INFO - Starting recording: SomaFM_Indie for 37 seconds
+2025-03-08 21:54:19,243 - INFO - Recording complete: radio_sonic_archive\005_SomaFM_Indie_20250308_215356.mp3
+2025-03-08 21:54:19,421 - INFO - Recorded file 5/30: 005_SomaFM_Indie_20250308_215356.mp3
+2025-03-08 21:54:19,424 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:54:21,480 - INFO - Starting recording: SomaFM_Lounge for 61 seconds
+2025-03-08 21:55:08,570 - INFO - Recording complete: radio_sonic_archive\006_SomaFM_Lounge_20250308_215421.mp3
+2025-03-08 21:55:08,830 - INFO - Recorded file 6/30: 006_SomaFM_Lounge_20250308_215421.mp3
+2025-03-08 21:55:08,833 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:55:10,889 - INFO - Starting recording: SomaFM_Jazz for 86 seconds
+2025-03-08 21:56:23,121 - INFO - Recording complete: radio_sonic_archive\007_SomaFM_Jazz_20250308_215510.mp3
+2025-03-08 21:56:23,429 - INFO - Recorded file 7/30: 007_SomaFM_Jazz_20250308_215510.mp3
+2025-03-08 21:56:23,433 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:56:25,481 - INFO - Starting recording: SomaFM_Folk for 62 seconds
+2025-03-08 21:57:14,157 - INFO - Recording complete: radio_sonic_archive\008_SomaFM_Folk_20250308_215625.mp3
+2025-03-08 21:57:14,468 - INFO - Recorded file 8/30: 008_SomaFM_Folk_20250308_215625.mp3
+2025-03-08 21:57:14,473 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:57:16,524 - INFO - Starting recording: SomaFM_Indie for 66 seconds
+2025-03-08 21:58:08,483 - INFO - Recording complete: radio_sonic_archive\009_SomaFM_Indie_20250308_215716.mp3
+2025-03-08 21:58:08,706 - INFO - Recorded file 9/30: 009_SomaFM_Indie_20250308_215716.mp3
+2025-03-08 21:58:08,709 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:58:10,757 - INFO - Starting recording: SomaFM_Ambient for 76 seconds
+2025-03-08 21:59:12,654 - INFO - Recording complete: radio_sonic_archive\010_SomaFM_Ambient_20250308_215810.mp3
+2025-03-08 21:59:13,081 - INFO - Recorded file 10/30: 010_SomaFM_Ambient_20250308_215810.mp3
+2025-03-08 21:59:13,091 - INFO - Metadata saved to metadata.csv
+2025-03-08 21:59:15,158 - INFO - Starting recording: SomaFM_Indie for 83 seconds
+2025-03-08 22:00:24,019 - INFO - Recording complete: radio_sonic_archive\011_SomaFM_Indie_20250308_215915.mp3
+2025-03-08 22:00:24,276 - INFO - Recorded file 11/30: 011_SomaFM_Indie_20250308_215915.mp3
+2025-03-08 22:00:24,279 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:00:26,331 - INFO - Starting recording: SomaFM_Ambient for 76 seconds
+2025-03-08 22:01:05,076 - INFO - Recording complete: radio_sonic_archive\012_SomaFM_Ambient_20250308_220026.mp3
+2025-03-08 22:01:05,407 - INFO - Recorded file 12/30: 012_SomaFM_Ambient_20250308_220026.mp3
+2025-03-08 22:01:05,414 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:01:07,488 - INFO - Starting recording: SomaFM_Lounge for 72 seconds
+2025-03-08 22:02:05,352 - INFO - Recording complete: radio_sonic_archive\013_SomaFM_Lounge_20250308_220107.mp3
+2025-03-08 22:02:05,601 - INFO - Recorded file 13/30: 013_SomaFM_Lounge_20250308_220107.mp3
+2025-03-08 22:02:05,605 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:02:07,657 - INFO - Starting recording: SomaFM_Drone for 79 seconds
+2025-03-08 22:03:12,744 - INFO - Recording complete: radio_sonic_archive\014_SomaFM_Drone_20250308_220207.mp3
+2025-03-08 22:03:12,974 - INFO - Recorded file 14/30: 014_SomaFM_Drone_20250308_220207.mp3
+2025-03-08 22:03:12,978 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:03:15,029 - INFO - Starting recording: SomaFM_Ambient for 45 seconds
+2025-03-08 22:03:45,960 - INFO - Recording complete: radio_sonic_archive\015_SomaFM_Ambient_20250308_220314.mp3
+2025-03-08 22:03:46,131 - INFO - Recorded file 15/30: 015_SomaFM_Ambient_20250308_220314.mp3
+2025-03-08 22:03:46,136 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:03:48,180 - INFO - Starting recording: SomaFM_Drone for 34 seconds
+2025-03-08 22:04:08,460 - INFO - Recording complete: radio_sonic_archive\016_SomaFM_Drone_20250308_220348.mp3
+2025-03-08 22:04:08,626 - INFO - Recorded file 16/30: 016_SomaFM_Drone_20250308_220348.mp3
+2025-03-08 22:04:08,628 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:04:10,679 - INFO - Starting recording: SomaFM_Drone for 38 seconds
+2025-03-08 22:04:34,609 - INFO - Recording complete: radio_sonic_archive\017_SomaFM_Drone_20250308_220410.mp3
+2025-03-08 22:04:34,775 - INFO - Recorded file 17/30: 017_SomaFM_Drone_20250308_220410.mp3
+2025-03-08 22:04:34,778 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:04:36,827 - INFO - Starting recording: SomaFM_Ambient for 53 seconds
+2025-03-08 22:05:16,090 - INFO - Recording complete: radio_sonic_archive\018_SomaFM_Ambient_20250308_220436.mp3
+2025-03-08 22:05:16,304 - INFO - Recorded file 18/30: 018_SomaFM_Ambient_20250308_220436.mp3
+2025-03-08 22:05:16,308 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:05:18,360 - INFO - Starting recording: SomaFM_Jazz for 63 seconds
+2025-03-08 22:06:07,169 - INFO - Recording complete: radio_sonic_archive\019_SomaFM_Jazz_20250308_220518.mp3
+2025-03-08 22:06:07,402 - INFO - Recorded file 19/30: 019_SomaFM_Jazz_20250308_220518.mp3
+2025-03-08 22:06:07,406 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:06:09,461 - INFO - Starting recording: SomaFM_Drone for 88 seconds
+2025-03-08 22:07:23,504 - INFO - Recording complete: radio_sonic_archive\020_SomaFM_Drone_20250308_220609.mp3
+2025-03-08 22:07:23,770 - INFO - Recorded file 20/30: 020_SomaFM_Drone_20250308_220609.mp3
+2025-03-08 22:07:23,774 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:07:25,824 - INFO - Starting recording: SomaFM_Groove for 86 seconds
+2025-03-08 22:08:37,936 - INFO - Recording complete: radio_sonic_archive\021_SomaFM_Groove_20250308_220725.mp3
+2025-03-08 22:08:38,194 - INFO - Recorded file 21/30: 021_SomaFM_Groove_20250308_220725.mp3
+2025-03-08 22:08:38,197 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:08:40,252 - INFO - Starting recording: SomaFM_Indie for 74 seconds
+2025-03-08 22:09:40,363 - INFO - Recording complete: radio_sonic_archive\022_SomaFM_Indie_20250308_220840.mp3
+2025-03-08 22:09:40,588 - INFO - Recorded file 22/30: 022_SomaFM_Indie_20250308_220840.mp3
+2025-03-08 22:09:40,591 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:09:42,641 - INFO - Starting recording: SomaFM_Ambient for 37 seconds
+2025-03-08 22:10:05,508 - INFO - Recording complete: radio_sonic_archive\023_SomaFM_Ambient_20250308_220942.mp3
+2025-03-08 22:10:05,676 - INFO - Recorded file 23/30: 023_SomaFM_Ambient_20250308_220942.mp3
+2025-03-08 22:10:05,680 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:10:07,732 - INFO - Starting recording: SomaFM_Lounge for 41 seconds
+2025-03-08 22:10:34,956 - INFO - Recording complete: radio_sonic_archive\024_SomaFM_Lounge_20250308_221007.mp3
+2025-03-08 22:10:35,138 - INFO - Recorded file 24/30: 024_SomaFM_Lounge_20250308_221007.mp3
+2025-03-08 22:10:35,143 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:10:37,190 - INFO - Starting recording: SomaFM_Lounge for 70 seconds
+2025-03-08 22:11:33,193 - INFO - Recording complete: radio_sonic_archive\025_SomaFM_Lounge_20250308_221037.mp3
+2025-03-08 22:11:33,413 - INFO - Recorded file 25/30: 025_SomaFM_Lounge_20250308_221037.mp3
+2025-03-08 22:11:33,417 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:11:35,469 - INFO - Starting recording: SomaFM_Lounge for 83 seconds
+2025-03-08 22:12:44,432 - INFO - Recording complete: radio_sonic_archive\026_SomaFM_Lounge_20250308_221135.mp3
+2025-03-08 22:12:44,684 - INFO - Recorded file 26/30: 026_SomaFM_Lounge_20250308_221135.mp3
+2025-03-08 22:12:44,687 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:12:46,738 - INFO - Starting recording: SomaFM_Folk for 72 seconds
+2025-03-08 22:13:37,855 - INFO - Recording complete: radio_sonic_archive\027_SomaFM_Folk_20250308_221246.mp3
+2025-03-08 22:13:38,121 - INFO - Recorded file 27/30: 027_SomaFM_Folk_20250308_221246.mp3
+2025-03-08 22:13:38,125 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:13:40,200 - INFO - Starting recording: SomaFM_Folk for 42 seconds
+2025-03-08 22:14:08,202 - INFO - Recording complete: radio_sonic_archive\028_SomaFM_Folk_20250308_221340.mp3
+2025-03-08 22:14:08,463 - INFO - Recorded file 28/30: 028_SomaFM_Folk_20250308_221340.mp3
+2025-03-08 22:14:08,470 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:14:10,525 - INFO - Starting recording: SomaFM_Groove for 41 seconds
+2025-03-08 22:14:37,923 - INFO - Recording complete: radio_sonic_archive\029_SomaFM_Groove_20250308_221410.mp3
+2025-03-08 22:14:38,180 - INFO - Recorded file 29/30: 029_SomaFM_Groove_20250308_221410.mp3
+2025-03-08 22:14:38,189 - INFO - Metadata saved to metadata.csv
+2025-03-08 22:14:40,248 - INFO - Starting recording: SomaFM_Indie for 51 seconds
+2025-03-08 22:15:17,310 - INFO - Recording complete: radio_sonic_archive\030_SomaFM_Indie_20250308_221440.mp3
+2025-03-08 22:15:17,618 - INFO - Recorded file 30/30: 030_SomaFM_Indie_20250308_221440.mp3
+2025-03-08 22:15:17,628 - INFO - Metadata saved to metadata.csv

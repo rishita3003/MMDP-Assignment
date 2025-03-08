@@ -1,0 +1,302 @@
+[
+  {
+    "file_id": 1,
+    "filename": "001_SomaFM_Folk_20250308_215100.mp3",
+    "station_name": "SomaFM_Folk",
+    "url": "https://ice2.somafm.com/folkfwd-128-mp3",
+    "timestamp": "20250308_215100",
+    "requested_duration": 59,
+    "actual_duration": 58.999,
+    "format": "mp3"
+  },
+  {
+    "file_id": 2,
+    "filename": "002_SomaFM_Lounge_20250308_215147.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_215147",
+    "requested_duration": 59,
+    "actual_duration": 58.999,
+    "format": "mp3"
+  },
+  {
+    "file_id": 3,
+    "filename": "003_SomaFM_Drone_20250308_215235.mp3",
+    "station_name": "SomaFM_Drone",
+    "url": "https://ice2.somafm.com/dronezone-128-mp3",
+    "timestamp": "20250308_215235",
+    "requested_duration": 60,
+    "actual_duration": 59.991,
+    "format": "mp3"
+  },
+  {
+    "file_id": 4,
+    "filename": "004_SomaFM_Jazz_20250308_215323.mp3",
+    "station_name": "SomaFM_Jazz",
+    "url": "https://ice2.somafm.com/sonicuniverse-128-mp3",
+    "timestamp": "20250308_215323",
+    "requested_duration": 44,
+    "actual_duration": 44.004,
+    "format": "mp3"
+  },
+  {
+    "file_id": 5,
+    "filename": "005_SomaFM_Indie_20250308_215356.mp3",
+    "station_name": "SomaFM_Indie",
+    "url": "https://ice2.somafm.com/indiepop-128-mp3",
+    "timestamp": "20250308_215356",
+    "requested_duration": 37,
+    "actual_duration": 37.004,
+    "format": "mp3"
+  },
+  {
+    "file_id": 6,
+    "filename": "006_SomaFM_Lounge_20250308_215421.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_215421",
+    "requested_duration": 61,
+    "actual_duration": 61.01,
+    "format": "mp3"
+  },
+  {
+    "file_id": 7,
+    "filename": "007_SomaFM_Jazz_20250308_215510.mp3",
+    "station_name": "SomaFM_Jazz",
+    "url": "https://ice2.somafm.com/sonicuniverse-128-mp3",
+    "timestamp": "20250308_215510",
+    "requested_duration": 86,
+    "actual_duration": 86.009,
+    "format": "mp3"
+  },
+  {
+    "file_id": 8,
+    "filename": "008_SomaFM_Folk_20250308_215625.mp3",
+    "station_name": "SomaFM_Folk",
+    "url": "https://ice2.somafm.com/folkfwd-128-mp3",
+    "timestamp": "20250308_215625",
+    "requested_duration": 62,
+    "actual_duration": 62.003,
+    "format": "mp3"
+  },
+  {
+    "file_id": 9,
+    "filename": "009_SomaFM_Indie_20250308_215716.mp3",
+    "station_name": "SomaFM_Indie",
+    "url": "https://ice2.somafm.com/indiepop-128-mp3",
+    "timestamp": "20250308_215716",
+    "requested_duration": 66,
+    "actual_duration": 65.999,
+    "format": "mp3"
+  },
+  {
+    "file_id": 10,
+    "filename": "010_SomaFM_Ambient_20250308_215810.mp3",
+    "station_name": "SomaFM_Ambient",
+    "url": "https://ice2.somafm.com/spacestation-128-mp3",
+    "timestamp": "20250308_215810",
+    "requested_duration": 76,
+    "actual_duration": 76.004,
+    "format": "mp3"
+  },
+  {
+    "file_id": 11,
+    "filename": "011_SomaFM_Indie_20250308_215915.mp3",
+    "station_name": "SomaFM_Indie",
+    "url": "https://ice2.somafm.com/indiepop-128-mp3",
+    "timestamp": "20250308_215915",
+    "requested_duration": 83,
+    "actual_duration": 83.005,
+    "format": "mp3"
+  },
+  {
+    "file_id": 12,
+    "filename": "012_SomaFM_Ambient_20250308_220026.mp3",
+    "station_name": "SomaFM_Ambient",
+    "url": "https://ice2.somafm.com/spacestation-128-mp3",
+    "timestamp": "20250308_220026",
+    "requested_duration": 76,
+    "actual_duration": 52.808,
+    "format": "mp3"
+  },
+  {
+    "file_id": 13,
+    "filename": "013_SomaFM_Lounge_20250308_220107.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_220107",
+    "requested_duration": 72,
+    "actual_duration": 72.008,
+    "format": "mp3"
+  },
+  {
+    "file_id": 14,
+    "filename": "014_SomaFM_Drone_20250308_220207.mp3",
+    "station_name": "SomaFM_Drone",
+    "url": "https://ice2.somafm.com/dronezone-128-mp3",
+    "timestamp": "20250308_220207",
+    "requested_duration": 79,
+    "actual_duration": 79.008,
+    "format": "mp3"
+  },
+  {
+    "file_id": 15,
+    "filename": "015_SomaFM_Ambient_20250308_220314.mp3",
+    "station_name": "SomaFM_Ambient",
+    "url": "https://ice2.somafm.com/spacestation-128-mp3",
+    "timestamp": "20250308_220314",
+    "requested_duration": 45,
+    "actual_duration": 44.997,
+    "format": "mp3"
+  },
+  {
+    "file_id": 16,
+    "filename": "016_SomaFM_Drone_20250308_220348.mp3",
+    "station_name": "SomaFM_Drone",
+    "url": "https://ice2.somafm.com/dronezone-128-mp3",
+    "timestamp": "20250308_220348",
+    "requested_duration": 34,
+    "actual_duration": 33.999,
+    "format": "mp3"
+  },
+  {
+    "file_id": 17,
+    "filename": "017_SomaFM_Drone_20250308_220410.mp3",
+    "station_name": "SomaFM_Drone",
+    "url": "https://ice2.somafm.com/dronezone-128-mp3",
+    "timestamp": "20250308_220410",
+    "requested_duration": 38,
+    "actual_duration": 37.996,
+    "format": "mp3"
+  },
+  {
+    "file_id": 18,
+    "filename": "018_SomaFM_Ambient_20250308_220436.mp3",
+    "station_name": "SomaFM_Ambient",
+    "url": "https://ice2.somafm.com/spacestation-128-mp3",
+    "timestamp": "20250308_220436",
+    "requested_duration": 53,
+    "actual_duration": 52.99,
+    "format": "mp3"
+  },
+  {
+    "file_id": 19,
+    "filename": "019_SomaFM_Jazz_20250308_220518.mp3",
+    "station_name": "SomaFM_Jazz",
+    "url": "https://ice2.somafm.com/sonicuniverse-128-mp3",
+    "timestamp": "20250308_220518",
+    "requested_duration": 63,
+    "actual_duration": 62.995,
+    "format": "mp3"
+  },
+  {
+    "file_id": 20,
+    "filename": "020_SomaFM_Drone_20250308_220609.mp3",
+    "station_name": "SomaFM_Drone",
+    "url": "https://ice2.somafm.com/dronezone-128-mp3",
+    "timestamp": "20250308_220609",
+    "requested_duration": 88,
+    "actual_duration": 87.995,
+    "format": "mp3"
+  },
+  {
+    "file_id": 21,
+    "filename": "021_SomaFM_Groove_20250308_220725.mp3",
+    "station_name": "SomaFM_Groove",
+    "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+    "timestamp": "20250308_220725",
+    "requested_duration": 86,
+    "actual_duration": 86.009,
+    "format": "mp3"
+  },
+  {
+    "file_id": 22,
+    "filename": "022_SomaFM_Indie_20250308_220840.mp3",
+    "station_name": "SomaFM_Indie",
+    "url": "https://ice2.somafm.com/indiepop-128-mp3",
+    "timestamp": "20250308_220840",
+    "requested_duration": 74,
+    "actual_duration": 73.993,
+    "format": "mp3"
+  },
+  {
+    "file_id": 23,
+    "filename": "023_SomaFM_Ambient_20250308_220942.mp3",
+    "station_name": "SomaFM_Ambient",
+    "url": "https://ice2.somafm.com/spacestation-128-mp3",
+    "timestamp": "20250308_220942",
+    "requested_duration": 37,
+    "actual_duration": 37.004,
+    "format": "mp3"
+  },
+  {
+    "file_id": 24,
+    "filename": "024_SomaFM_Lounge_20250308_221007.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_221007",
+    "requested_duration": 41,
+    "actual_duration": 41.0,
+    "format": "mp3"
+  },
+  {
+    "file_id": 25,
+    "filename": "025_SomaFM_Lounge_20250308_221037.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_221037",
+    "requested_duration": 70,
+    "actual_duration": 69.996,
+    "format": "mp3"
+  },
+  {
+    "file_id": 26,
+    "filename": "026_SomaFM_Lounge_20250308_221135.mp3",
+    "station_name": "SomaFM_Lounge",
+    "url": "https://ice2.somafm.com/lush-128-mp3",
+    "timestamp": "20250308_221135",
+    "requested_duration": 83,
+    "actual_duration": 83.005,
+    "format": "mp3"
+  },
+  {
+    "file_id": 27,
+    "filename": "027_SomaFM_Folk_20250308_221246.mp3",
+    "station_name": "SomaFM_Folk",
+    "url": "https://ice2.somafm.com/folkfwd-128-mp3",
+    "timestamp": "20250308_221246",
+    "requested_duration": 72,
+    "actual_duration": 65.033,
+    "format": "mp3"
+  },
+  {
+    "file_id": 28,
+    "filename": "028_SomaFM_Folk_20250308_221340.mp3",
+    "station_name": "SomaFM_Folk",
+    "url": "https://ice2.somafm.com/folkfwd-128-mp3",
+    "timestamp": "20250308_221340",
+    "requested_duration": 42,
+    "actual_duration": 41.993,
+    "format": "mp3"
+  },
+  {
+    "file_id": 29,
+    "filename": "029_SomaFM_Groove_20250308_221410.mp3",
+    "station_name": "SomaFM_Groove",
+    "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+    "timestamp": "20250308_221410",
+    "requested_duration": 41,
+    "actual_duration": 41.0,
+    "format": "mp3"
+  },
+  {
+    "file_id": 30,
+    "filename": "030_SomaFM_Indie_20250308_221440.mp3",
+    "station_name": "SomaFM_Indie",
+    "url": "https://ice2.somafm.com/indiepop-128-mp3",
+    "timestamp": "20250308_221440",
+    "requested_duration": 51,
+    "actual_duration": 51.005,
+    "format": "mp3"
+  }
+]
