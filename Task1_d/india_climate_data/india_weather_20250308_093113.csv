@@ -1,0 +1,21 @@
+city,timestamp,temperature,feels_like,humidity,pressure,wind_speed,weather_condition,weather_description,clouds
+Mumbai,2025-03-08 09:30:48,27.75,27.45,40,1011,1.6,Clear,clear sky,0
+Delhi,2025-03-08 09:30:49,22.75,21.6,20,1011,1.82,Clear,clear sky,0
+Bangalore,2025-03-08 09:30:50,25.67,25.21,35,1013,1.43,Clouds,broken clouds,81
+Hyderabad,2025-03-08 09:30:51,28.85,27.25,10,1012,1.28,Clear,clear sky,0
+Chennai,2025-03-08 09:30:53,27.17,28.3,60,1012,2.85,Clouds,scattered clouds,47
+Kolkata,2025-03-08 09:30:54,28.21,27.85,40,1011,3.29,Clouds,overcast clouds,100
+Pune,2025-03-08 09:30:55,28.9,27.29,14,1012,1.41,Clear,clear sky,0
+Ahmedabad,2025-03-08 09:30:57,28.54,27.4,28,1011,1.91,Clear,clear sky,0
+Jaipur,2025-03-08 09:30:58,25.02,24.0,16,1011,2.87,Clear,clear sky,0
+Lucknow,2025-03-08 09:30:59,25.02,23.92,13,1011,2.13,Clear,clear sky,0
+Kanpur,2025-03-08 09:31:00,25.57,24.52,13,1011,1.0,Clear,clear sky,0
+Nagpur,2025-03-08 09:31:02,28.56,27.03,12,1012,1.61,Clear,clear sky,0
+Indore,2025-03-08 09:31:03,27.52,26.27,12,1012,2.59,Clear,clear sky,0
+Thane,2025-03-08 09:31:04,29.16,27.58,20,1011,1.61,Clear,clear sky,0
+Bhopal,2025-03-08 09:31:05,27.14,26.03,14,1012,3.15,Clear,clear sky,1
+Visakhapatnam,2025-03-08 09:31:07,27.93,29.68,63,1012,2.12,Clouds,few clouds,20
+Patna,2025-03-08 09:31:08,25.6,24.69,18,1011,1.87,Clear,clear sky,0
+Vadodara,2025-03-08 09:31:09,29.02,27.43,18,1011,1.39,Clear,clear sky,0
+Ghaziabad,2025-03-08 09:31:10,22.54,21.42,22,1011,2.12,Clear,clear sky,0
+Ludhiana,2025-03-08 09:31:12,21.69,20.62,27,1010,2.0,Clear,clear sky,0
