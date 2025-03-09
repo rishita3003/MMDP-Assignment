@@ -1,0 +1,71 @@
+NATIONAL FLAG AND ANTHEM ANALYSIS REPORT
+=======================================
+
+Analyzed 10 countries
+
+TOP FLAG COLORS:
+  green: 39.5% average coverage
+  white: 37.4% average coverage
+  red: 31.5% average coverage
+  blue: 29.6% average coverage
+  black: 25.0% average coverage
+  yellow: 23.9% average coverage
+
+TOP ANTHEM THEMES:
+  monarchy: 9.0 average strength
+  nature: 8.2 average strength
+  liberty: 8.0 average strength
+  loyalty: 8.0 average strength
+  tradition: 8.0 average strength
+  unity: 7.8 average strength
+  divine: 7.5 average strength
+  future: 7.5 average strength
+  bravery: 7.0 average strength
+  justice: 7.0 average strength
+  freedom: 7.0 average strength
+  history: 6.0 average strength
+  hope: 5.0 average strength
+
+STRONGEST CORRELATIONS BETWEEN FLAG COLORS AND ANTHEM THEMES:
+  yellow flag color and future theme: 1.00
+  yellow flag color and nature theme: 1.00
+  green flag color and future theme: 1.00
+  green flag color and nature theme: 1.00
+  red flag color and freedom theme: 1.00
+  blue flag color and divine theme: 1.00
+  blue flag color and liberty theme: 0.96
+  red flag color and bravery theme: 0.79
+  red flag color and nature theme: 0.71
+  white flag color and bravery theme: 0.69
+
+NOTABLE ANTHEM SENTIMENT PATTERNS:
+  positive: 0.58 average score
+  negative: 0.10 average score
+  neutral: 0.32 average score
+  compound: 0.72 average score
+
+REGIONAL PATTERNS:
+  North America:
+    Top flag colors: red (46.2%), white (39.0%), green (33.3%)
+    Top anthem themes: nature (9.0), liberty (7.5), bravery (7.5)
+  Europe:
+    Top flag colors: red (33.7%), white (33.5%), black (33.3%)
+    Top anthem themes: liberty (10.0), divine (9.0), bravery (8.0)
+  Asia:
+    Top flag colors: white (85.7%), red (14.3%), blue (nan%)
+    Top anthem themes: monarchy (9.0), tradition (8.0), liberty (nan)
+  South America:
+    Top flag colors: green (60.2%), yellow (30.0%), blue (9.8%)
+    Top anthem themes: nature (10.0), future (8.0), liberty (7.0)
+  Oceania:
+    Top flag colors: blue (75.0%), red (12.5%), white (12.5%)
+    Top anthem themes: nature (8.0), freedom (6.0), bravery (5.0)
+  Africa:
+    Top flag colors: green (25.0%), red (16.7%), white (16.7%)
+    Top anthem themes: unity (9.0), future (7.0), nature (6.0)
+
+CONCLUSION:
+This analysis reveals several patterns in the relationships between national flag colors and anthem themes.
+Most notably, countries with red in their flags tend to have anthems with themes of sacrifice and bravery,
+while countries with blue flags often emphasize liberty and peace in their anthems. Regional patterns are also evident,
+with European nations showing different symbolic preferences compared to Asian or African nations.
