@@ -1,0 +1,18 @@
+Detailed Anthem Audio Cluster Analysis
+=====================================
+
+Cluster 0 (60 countries):
+ae, af, al, am, ao, aw, bw, ca, cd, ci, ck, cl, cn, cu, cv, de, ee, gb, gq, gw, gy, hn, hr, ht, ke, kr, kw, la, li, ls, mg, ml, mn, mr, mt, mu, mw, mx, my, nf, no, pa, pt, pw, rs, sc, se, sk, sm, sn, sr, st, tj, tt, ua, ug, us, ve, ye, za
+
+Cluster 1 (31 countries):
+ad, ax, bg, bi, bm, bt, co, gd, in, iq, ky, ly, mf, mq, nc, ne, ng, np, nr, nu, pe, py, sh, si, tc, tk, tv, uy, vc, vg, zw
+
+Cluster 2 (35 countries):
+as, at, bb, bd, bh, bj, bl, bn, bo, bs, by, cg, cm, et, fk, fr, id, kg, kp, lt, md, mk, mm, mv, nz, pk, qa, ro, rw, sd, sl, tg, th, tn, vn
+
+Cluster 3 (57 countries):
+ag, ar, au, az, ba, bf, br, ch, cr, cw, cz, dj, dk, do, ec, eh, fi, fj, fm, ge, gi, gl, gm, gr, gt, hu, il, is, it, jp, kh, km, kn, kz, lu, ma, mh, mp, ms, na, ni, nl, om, pf, ph, pl, pn, re, ru, sb, sz, tl, tz, uz, vu, ws, zm
+
+Cluster 4 (47 countries):
+ai, be, bz, cf, dm, dz, eg, er, es, eu, fo, ga, gg, gh, gn, gu, ie, im, ir, je, jm, jo, ki, lb, lc, lk, lr, lv, mc, me, mz, pg, pr, ps, sa, sg, so, ss, sv, sy, td, tm, to, tr, tw, va, vi
+
