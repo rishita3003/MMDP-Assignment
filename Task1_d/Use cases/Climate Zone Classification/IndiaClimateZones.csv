@@ -1,0 +1,21 @@
+city,temp_avg,humidity,wind_speed,precipitation,climate_zone
+Ahmedabad,25.995,37.5125,15.594375,0.0,Moderate and Dry
+Bangalore,24.9221875,52.165625,18.3665625,0.0,Moderate and Dry
+Bhopal,22.761875,43.8125,19.8475,0.0,Moderate and Dry
+Chennai,27.8484375,72.95625,18.40375,0.0,Moderate and Humid
+Delhi,19.9340625,56.675,15.55125,0.3351875,Cool
+Ghaziabad,19.9409375,56.5375,15.5584375,0.4074375,Cool
+Hyderabad,26.6778125,47.45625,15.8246875,0.0,Moderate and Dry
+Indore,23.278750000000002,44.35,13.654375,0.0,Moderate and Dry
+Jaipur,22.043125,40.459375,18.1234375,0.06875,Moderate and Dry
+Kanpur,20.6871875,57.903125,19.170625,0.0,Moderate and Dry
+Kolkata,25.431875,62.36875,15.2825,1.26534375,Moderate and Humid
+Lucknow,20.636875,57.56875,19.135625,0.0,Moderate and Dry
+Ludhiana,17.6309375,64.759375,14.6821875,1.86875,Cool
+Mumbai,28.6609375,44.7875,17.8959375,0.0,Hot and Dry
+Nagpur,26.466875,33.565625,12.981250000000001,0.0,Moderate and Dry
+Patna,22.1125,56.4,14.2121875,0.1,Moderate and Dry
+Pune,25.644375,40.63125,11.9090625,0.0,Moderate and Dry
+Thane,29.1053125,40.703125,17.605,0.0,Hot and Dry
+Vadodara,26.745,40.159375,11.4828125,0.0,Moderate and Dry
+Visakhapatnam,27.0975,74.11875,19.316875,0.0,Moderate and Humid
