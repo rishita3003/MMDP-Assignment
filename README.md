@@ -1,5 +1,15 @@
 # MMDP-Assignment
 
+# Images, Text, Audio, Weather and India Govt. Datasets
+
+- Image Dataset of 20 categories with 50 images in each category.
+  Example Images -
+  
+- Text Dataset of 20 categories with text extracted from 3 links of each category.
+- Audio Dataset formed by recording from real time radio stations.
+- Weather Dataset formed by extracting real time and historical weather data from OpenWeatherApp and ___ websites.
+
+
 # National Anthems Multimodal Analysis Project
 
 This repository contains a comprehensive multimodal analysis of national flags and anthems, exploring correlations between visual symbolism, linguistic features, and musical characteristics across different nations.
