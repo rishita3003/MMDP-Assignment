@@ -29,6 +29,16 @@
   2. 'SomaFM_Drone': 'https://ice2.somafm.com/dronezone-128-mp3'
   3. 'SomaFM_Jazz': 'https://ice2.somafm.com/sonicuniverse-128-mp3'
   4. 'SomaFM_Indie': 'https://ice2.somafm.com/indiepop-128-mp3'
+
+ Mood Analysis based on valence and arousal - 
+ 
+    | Valence | Arousal | Mood Examples                 |
+    |---------|---------|--------------------------------|
+    | High    | High    | Excited, Happy, Energetic     |
+    | High    | Low     | Calm, Peaceful, Relaxed       |
+    | Low     | High    | Angry, Tense, Nervous         |
+    | Low     | Low     | Sad, Depressed, Bored         |
+
     
 - Weather Dataset formed by extracting real time and historical weather data from OpenWeatherApp and Visual Crossing (API) websites.
 
