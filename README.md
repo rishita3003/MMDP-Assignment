@@ -4,11 +4,33 @@
 
 - Image Dataset of 20 categories with 50 images in each category.
   Example Images -
-  
-- Text Dataset of 20 categories with text extracted from 3 links of each category.
-- Audio Dataset formed by recording from real time radio stations.
-- Weather Dataset formed by extracting real time and historical weather data from OpenWeatherApp and ___ websites.
+<table>
+  <tr>
+    <td><img src="Task_1/Task1_a/CulturalVisualCorpus/Adventure_Sports/1b107827e18f0fe0bc253cf3a1500e53.jpg" width="200" height="200" alt="Adventure sports"></td>
+    <td><img src="Task_1/Task1_a/CulturalVisualCorpus/Ancient_Artifacts/20156a07826d60f2ded3397d1e72ecd7.jpg" width="200" height="200" alt="Ancient Artifacts"></td>
+    <td><img src="Task_1/Task1_a/CulturalVisualCorpus/Classical_Music_Instruments/41948af7c7904cbc3d694a55fb14a65a.jpg" width="200" height="200" alt="Instruments"></td>
+    <td><img src="Task_1/Task1_a/CulturalVisualCorpus/Coastal_Cities/e1827a316ea6ff98e8a49cccdb125ef2.jpg" width="200" height="200" alt="Coastal Cities"></td>
+  </tr>
+</table>
 
+- Text Dataset of 20 categories with text extracted from 3 links of each category.
+  Analysis on text dataset -
+<table>
+  <tr>
+    <td><img src="Task_1/Task1_b/CrossDomainAnalysis/category_embeddings.png" width="200" height="200" alt="Category Embeddings"></td>
+    <td><img src="Task_1/Task1_b/CrossDomainAnalysis/wordcloud_Agricultural_Practices.png" width="200" height="200" alt="Wordcloud"></td>
+    <td><img src="Task_1/Task1_b/CrossDomainAnalysis/category_relationships.png" width="200" height="200" alt="Category relationships"></td>
+    <td><img src="Task_1/Task1_b/CrossDomainAnalysis/knowledge_graph.png" width="200" height="200" alt="Knowledge Graph"></td>
+  </tr>
+</table>
+
+- Audio Dataset formed by recording from real time radio stations. Some of the radio stations I used - 
+  1. 'SomaFM_Groove': 'https://ice2.somafm.com/groovesalad-128-mp3'
+  2. 'SomaFM_Drone': 'https://ice2.somafm.com/dronezone-128-mp3'
+  3. 'SomaFM_Jazz': 'https://ice2.somafm.com/sonicuniverse-128-mp3'
+  4. 'SomaFM_Indie': 'https://ice2.somafm.com/indiepop-128-mp3'
+    
+- Weather Dataset formed by extracting real time and historical weather data from OpenWeatherApp and Visual Crossing (API) websites.
 
 # Task 3 - National Anthems Multimodal Analysis Project
 
